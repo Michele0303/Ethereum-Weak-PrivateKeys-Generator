@@ -1,0 +1,25 @@
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.AssemblyInfoInputs.cache
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.AssemblyInfo.cs
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.csproj.CoreCompileInputs.cache
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.exe
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.deps.json
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.runtimeconfig.json
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.runtimeconfig.dev.json
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\ref\Ethereum Weak Keys Generator.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Ethereum Weak Keys Generator.pdb
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\NBitcoin.Secp256k1.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Nethereum.Hex.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Nethereum.Model.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Nethereum.RLP.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Nethereum.Signer.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Nethereum.Util.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.csproj.CopyComplete
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\ref\Ethereum Weak Keys Generator.dll
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.pdb
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.genruntimeconfig.cache
+C:\Users\michele\Desktop\Ethereum Weak Keys Generator\obj\Debug\net5.0\Ethereum Weak Keys Generator.csproj.AssemblyReference.cache

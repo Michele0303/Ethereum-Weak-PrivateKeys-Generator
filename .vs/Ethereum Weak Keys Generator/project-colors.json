@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "753d5086-e804-4e64-8a63-0f4cdf654718": {
+      "ProjectGuid": "753d5086-e804-4e64-8a63-0f4cdf654718",
+      "DisplayName": "Ethereum Weak Keys Generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

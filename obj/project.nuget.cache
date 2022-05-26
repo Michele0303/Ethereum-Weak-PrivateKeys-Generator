@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPQ+7D+9976NWur2/Qn9TT4pSe0/syXsUXjTCUAFfSI2PxYC6pCNdYLhA44uBeaM+Cb87GTQbUnGk+kiBfmmMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michele\\Desktop\\Ethereum Weak Keys Generator\\Ethereum Weak Keys Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michele\\.nuget\\packages\\nbitcoin.secp256k1\\1.0.3\\nbitcoin.secp256k1.1.0.3.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\nethereum.hex\\4.5.0\\nethereum.hex.4.5.0.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\nethereum.model\\4.5.0\\nethereum.model.4.5.0.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\nethereum.rlp\\4.5.0\\nethereum.rlp.4.5.0.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\nethereum.signer\\4.5.0\\nethereum.signer.4.5.0.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\nethereum.util\\4.5.0\\nethereum.util.4.5.0.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\michele\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
