@@ -1,6 +1,6 @@
 # Ethereum-Weak-PrivateKeys-Generator
-Simple Ethereum Weak Keys Generator.
-find private keys of existing eth wallets
+<p>Simple Ethereum Weak Keys Generator.</p>
+<p>find private keys of existing eth wallets</p>
 
 <img src="https://i.imgur.com/IUeXbTk.gif">
 
