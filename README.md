@@ -4,5 +4,8 @@
 
 <img src="https://i.imgur.com/IUeXbTk.gif">
 
+# To-Do List
+☑️ Multi-Threading
+
 # Reference:
 <a href="https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/" target="_blank">Blockchain Bandit - Ethereum Weak Private Keys</a>
